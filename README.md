@@ -6,7 +6,7 @@
 node js installieren (aktuellste version)
 
 # Frontend:
-Mit "npm install" Packages installieren
+Mit "npm install" Packages installieren <br />
 Mit "npm start" starten 
 
 # Backend:
@@ -18,11 +18,11 @@ When successfully started, the server runs on [http://localhost:8080/](http://lo
 
 ## Tusk
 
-In dieser Testaufgabe muss man sich mit dem Backend (das schon da ist) verbinden.
-Zwei Inputfelder und einen Button für Absenden der Daten erstellen.
-Mit einem POST-Request (muss implementiert werden) werden die Daten aus den Inputs als Parameters "name" und "description" ans Backend geschickt.
-Nach dem POST-Request müssen die Daten "refetcht" werden.
-Mit GET-Request (welches schon implementiert ist) muss man dann die Daten abholen und auf der Website anzeigen.
+In dieser Testaufgabe muss man sich mit dem Backend (das schon da ist) verbinden. <br />
+Zwei Inputfelder und einen Button für Absenden der Daten erstellen. <br />
+Mit einem POST-Request (muss implementiert werden) werden die Daten aus den Inputs als Parameters "name" und "description" ans Backend geschickt. <br />
+Nach dem POST-Request müssen die Daten "refetcht" werden. <br />
+Mit GET-Request (welches schon implementiert ist) muss man dann die Daten abholen und auf der Website anzeigen. <br />
 
 URL: "/api/todoList/"
 
